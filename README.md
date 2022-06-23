@@ -19,3 +19,5 @@ Steam 账号一键登录
 ### Steam URL Protocal
 [steamgo://steam/install/123](steamgo://steam/install/123)
 
+## SSFN 下载
+https://github.com/steamgoapp/ssfn/raw/main/ssfn*
